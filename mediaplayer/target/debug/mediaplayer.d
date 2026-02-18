@@ -1,0 +1,1 @@
+/home/enqiridion/Desktop/VsCode\ /Rusticus\ /mediaplayer/Mediaplayer-fejlh-ndtering/mediaplayer/target/debug/mediaplayer: /home/enqiridion/Desktop/VsCode\ /Rusticus\ /mediaplayer/Mediaplayer-fejlh-ndtering/mediaplayer/src/main.rs
